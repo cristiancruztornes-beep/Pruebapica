@@ -1,0 +1,5 @@
+telethon
+cryptg
+requests
+requests-toolbelt
+pillow
